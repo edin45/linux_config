@@ -1,0 +1,6 @@
+xbindkeys &
+setxkbmap de &
+picom --config ~/.config/picom.conf &
+plank &
+nitrogen --restore &
+sh /home/edin/polybar_launch.sh
